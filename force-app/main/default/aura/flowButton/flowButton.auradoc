@@ -1,0 +1,6 @@
+<aura:documentation>
+	<aura:description>Documentation</aura:description>
+	<aura:example name="ExampleName" ref="exampleComponentName" label="Label">
+		Pulled from https://github.com/alexed1/LightningFlowComponents/tree/master/flow_screen_components/flowButton/force-app/main/default/aura/flowButton
+	</aura:example>
+</aura:documentation>
